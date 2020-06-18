@@ -1,0 +1,7 @@
+module.exports = {
+    SLACK_CLIENT_ID: process.env.SLACK_CLIENT_ID,
+    SLACK_CLIENT_SECRET: process.env.SLACK_CLIENT_SECRET,
+    COGNITO_REDIRECT_URI: process.env.COGNITO_REDIRECT_URI,
+    SLACK_API_URL: process.env.SLACK_API_URL,
+    SLACK_LOGIN_URL: process.env.SLACK_LOGIN_URL
+};
